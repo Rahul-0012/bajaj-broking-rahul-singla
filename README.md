@@ -1,6 +1,6 @@
 # Bajaj Broking Trading Platform
 
-A simplified trading platform SDK and REST API simulation built for a campus hiring assignment. The project demonstrates backend system design, clean RESTful API development, and core trading workflows such as instrument discovery, order placement, order status tracking, trade execution, and portfolio management using in-memory data storage.
+Thank u for giving me this opportunity, I have built a simplified trading platform SDK and REST API simulation built for a campus hiring assignment. The project demonstrates backend system design, clean RESTful API development, and core trading workflows such as instrument discovery, order placement, order status tracking, trade execution, and portfolio management using in-memory data storage.
 
 ## 📋 Table of Contents
 
@@ -53,7 +53,7 @@ A simplified trading platform SDK and REST API simulation built for a campus hir
 - **Responsive Design**: Modern UI built with Material-UI (MUI)
 - **Real-time Updates**: Auto-refresh functionality for live data
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend
 - **Node.js** with **TypeScript**
@@ -72,7 +72,7 @@ A simplified trading platform SDK and REST API simulation built for a campus hir
 - **React Router** - Navigation
 - **Recharts** - Data visualization (ready for future use)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 trading-interface-demo-main/
@@ -131,7 +131,7 @@ trading-interface-demo-main/
 
 ```
 
-## 🚀 Setup and Installation
+##  Setup and Installation
 
 ### Prerequisites
 
@@ -196,7 +196,7 @@ trading-interface-demo-main/
    - Sample instruments (20 popular stocks)
    - Default wallet for mock user with ₹10,00,000 balance
 
-## 🏃 Running the Application
+##  Running the Application
 
 ### Option 1: Using npm scripts (Recommended)
 
@@ -251,7 +251,7 @@ The frontend will start on `http://localhost:3000`
 - **API Health Check**: http://localhost:3001/health
 - **Swagger API Documentation**: http://localhost:3001/api-docs
 
-## 📚 API Documentation
+##  API Documentation
 
 All API endpoints are documented with Swagger/OpenAPI. Visit http://localhost:3001/api-docs for interactive documentation.
 
@@ -561,7 +561,7 @@ Exchange authorization code for access token.
 
 Get user profile information (requires authentication).
 
-## 📝 Sample API Usage
+##  Sample API Usage
 
 ### Using cURL
 
@@ -677,7 +677,7 @@ const portfolio = await api.get('/portfolio');
 3. Set Authorization header: `Bearer mock_token` in Collection settings
 4. Test all endpoints directly from Postman
 
-## 🖥 Frontend Interface
+##  Frontend Interface
 
 The frontend provides a modern, responsive web interface with the following pages:
 
@@ -709,7 +709,7 @@ The frontend provides a modern, responsive web interface with the following page
 - P&L percentage indicators
 - Quantity and average buy price
 
-## 🗄 Database Schema
+##  Database Schema
 
 The application uses SQLite with the following tables:
 
@@ -768,7 +768,7 @@ The application uses SQLite with the following tables:
 - `createdAt` (DATETIME)
 - `updatedAt` (DATETIME)
 
-## 💡 Assumptions and Implementation Notes
+##  Assumptions and Implementation Notes
 
 ### Assumptions
 
@@ -841,7 +841,7 @@ The application uses SQLite with the following tables:
    - SELL orders credit balance on execution
    - `totalInvested` tracks total money used for buying
 
-## 🧪 Testing
+##  Testing
 
 ### Running Tests
 
@@ -858,7 +858,7 @@ The backend includes unit tests for order placement and execution logic. Run tes
 npm test -- --coverage
 ```
 
-## 🚧 Future Enhancements
+## Future Enhancements
 
 - [ ] Real-time WebSocket integration for live price updates
 - [ ] Comprehensive test suite with higher coverage
@@ -871,16 +871,16 @@ npm test -- --coverage
 - [ ] Docker containerization
 - [ ] CI/CD pipeline setup
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 👤 Author
+##  Author
 
 **Rahul Singla**
 - GitHub: [Rahul-0012](https://github.com/Rahul-0012)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Bajaj Broking for providing the API specification
 - Material-UI for the excellent React component library
