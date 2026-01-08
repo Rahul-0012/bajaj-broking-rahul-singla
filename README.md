@@ -18,6 +18,18 @@ A simplified trading platform SDK and REST API simulation built for a campus hir
 - [Contributing](#contributing)
 - [License](#license)
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="images/screenshot-1.jpeg" alt="Application Screenshot 1" width="800" />
+  <p><em>Screenshot 1: Trading Platform Dashboard</em></p>
+</div>
+
+<div align="center">
+  <img src="images/screenshot-2.jpeg" alt="Application Screenshot 2" width="800" />
+  <p><em>Screenshot 2: Trading Platform Interface</em></p>
+</div>
+
 ## ✨ Features
 
 ### Backend Features
