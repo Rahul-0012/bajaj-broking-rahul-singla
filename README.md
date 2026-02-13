@@ -1,6 +1,6 @@
 # Bajaj Broking Trading Platform
 
-Thank u for giving me this opportunity, I have built a simplified trading platform SDK and REST API simulation built for a campus hiring assignment. The project demonstrates backend system design, clean RESTful API development, and core trading workflows such as instrument discovery, order placement, order status tracking, trade execution, and portfolio management using in-memory data storage.
+I have built a simplified trading platform using SDK and REST API simulation. The project demonstrates backend system design, clean RESTful API development, and core trading workflows such as instrument discovery, order placement, order status tracking, trade execution, and portfolio management using in-memory data storage.
 
 ##  Table of Contents
 
